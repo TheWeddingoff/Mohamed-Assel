@@ -4,6 +4,7 @@
 @font-face{font-family:"Italianno";font-style:normal;font-weight:400;font-display:swap;src:url("https://fonts.gstatic.com/s/italianno/v17/dg4n_p3sv6gCJkwzT6RXjpW1uA.woff2") format("woff2");}
 @font-face{font-family:"Amiri";font-style:normal;font-weight:400 700;font-display:swap;src:url("https://fonts.gstatic.com/s/amiri/v27/J7aRnpd8CGxBHqUpvrIw74NL.woff2") format("woff2");}
 @font-face{font-family:"Runethia";font-style:normal;font-weight:400;font-display:swap;src:url("fonts/Runethia.otf") format("opentype");}
+@font-face{font-family:"Aldhabi";font-style:normal;font-weight:400;font-display:swap;src:url("fonts/Aldhabi.ttf") format("truetype");}
 
 :root{
   --cocoa:#260101;
